@@ -26,6 +26,16 @@
 </details>
 
 
+<details open>
+<summary><strong>C executable <i>(experimental, Java → C with TeaVM)</i></strong></summary>
+
+| OS | Arch. | File |
+|---|---|---|
+| ![Windows](https://img.shields.io/badge/Windows-AMD64-0078D6?style=for-the-badge&logo=windows&logoColor=white) | amd64 | [c-plantuml-windows-amd64-SNAPSHOT.zip](https://github.com/plantuml/plantuml/releases/download/snapshot/c-plantuml-windows-amd64-SNAPSHOT.zip) |
+
+</details>
+
+
 <details>
 <summary><strong>JAVA <i>(all licenses)</i></strong></summary>
 
